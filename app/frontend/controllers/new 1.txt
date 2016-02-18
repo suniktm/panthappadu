@@ -1,0 +1,11 @@
+
+Mitacs Telcom GMBH
+
+PAdpater
+
+Presence server
+
+Jersy
+
+
+bwConnection.ocic.application=callcenter
